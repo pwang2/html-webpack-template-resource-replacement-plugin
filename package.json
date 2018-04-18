@@ -1,0 +1,14 @@
+{
+  "name": "html-webpack-template-resource-replacement-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Webpack plugin extending HtmlWebpackPlugin to replace the relative resource in HTML template",
+  "license": "MIT",
+  "peerDependencies": {
+    "webpack": "^4.0.0",
+    "html-webpack-plugin": "^3.2.0"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
